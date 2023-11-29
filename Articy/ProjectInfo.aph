@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>73E6E30CF1ED7ADFB73FB91D524A80333D18E2D6DA5343CFEBF07EE9BA94A07E</Signature>
+  <Content>
+    <Project Guid="016abca0-f9f7-4ec6-b406-ab644cc68543">
+      <DisplayName Value="The Terror"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="d93757bf-a722-497d-a3d1-799db5de0e4d"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638367136611508358"/>
+      <PartitionHash Value="89E9CB3470DD76FAE7692886653CB9BEA856A66FA31BE316BE141B64B67DE2F8"/>
+      <SaveFileVersion Value="56"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
