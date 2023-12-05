@@ -3,7 +3,7 @@ import os
 import sys
 
 input_directory = sys.argv[1]
-output_path = '/home/yasue/Proyects/TheTerror/Tools/ImageResizer/256/'
+output_path = '/home/yasue/Proyects/TheTerror/Tools/ImageResizer/512/'
 width = sys.argv[2]
 height = sys.argv[3] if len(sys.argv) > 3 else width
 
